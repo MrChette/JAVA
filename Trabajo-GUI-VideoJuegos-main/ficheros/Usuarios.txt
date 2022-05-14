@@ -1,0 +1,6 @@
+Andres;Molina01$.;andres@gmail.com
+Nacho;Franco0$.;nashe@gmail.com
+Alejandro;Alejandro01$.;alejandro@gmail.com
+admin;admin;admin@gmail.com
+Pepito;Molina01$.;pepito@gmail.com
+Pepog;Molina01$.;pepog@gmail.com
